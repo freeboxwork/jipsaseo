@@ -1,0 +1,68 @@
+[
+ {
+  "id": "N1",
+  "pan_id": "2015122300021128",
+  "corpus_file": "notices/happy-house_2015122300021128.pdf",
+  "title": "완주삼례A-1 행복주택 입주자격완화 입주자 모집(동호지정,선계약후검증)",
+  "type": "행복주택",
+  "region": "전북특별자치도",
+  "announce_date": "2026-11-24",
+  "closing_date": "2026-12-31",
+  "detail_url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021128&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=10&mi=1026"
+ },
+ {
+  "id": "N2",
+  "pan_id": "2015122300021133",
+  "corpus_file": "notices/permanent-rental_2015122300021133.pdf",
+  "title": "영월주천 고령자복지주택 예비입주자 모집",
+  "type": "영구임대",
+  "region": "강원특별자치도",
+  "announce_date": "2026-11-26",
+  "closing_date": "2026-12-16",
+  "detail_url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021133&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=09&mi=1026"
+ },
+ {
+  "id": "N3",
+  "pan_id": "2015122300021132",
+  "corpus_file": "notices/integrated-public-rental_2015122300021132.pdf",
+  "title": "충북혁신클러스터 통합공공임대(일자리연계형 지원주택)",
+  "type": "통합공공임대",
+  "region": "충청북도",
+  "announce_date": "2026-11-25",
+  "closing_date": "2026-12-11",
+  "detail_url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021132&ccrCnntSysDsCd=03&uppAisTpCd=06&aisTpCd=48&mi=1026"
+ },
+ {
+  "id": "N4",
+  "pan_id": "2015122300021127",
+  "corpus_file": "notices/purchase-rental_2015122300021127.pdf",
+  "title": "[광주전남지역본부] 고령자 매입임대주택 예비입주자 모집",
+  "type": "매입임대",
+  "region": "전국",
+  "announce_date": "2026-11-26",
+  "closing_date": "2026-12-11",
+  "detail_url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021127&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26&mi=1026"
+ },
+ {
+  "id": "N5",
+  "pan_id": "2015122300021126",
+  "corpus_file": "notices/purchase-rental_2015122300021126.pdf",
+  "title": "[전남광주통합특별시] 일반 매입임대주택 예비입주자 모집 공고",
+  "type": "매입임대",
+  "region": "전남광주통합특별시",
+  "announce_date": "2026-11-26",
+  "closing_date": "2026-12-11",
+  "detail_url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=2015122300021126&ccrCnntSysDsCd=03&uppAisTpCd=13&aisTpCd=26&mi=1026"
+ },
+ {
+  "id": "N6",
+  "pan_id": "0000061211",
+  "corpus_file": "notices/public-sale_0000061211.pdf",
+  "title": "의정부우정 A-1블록 공공분양주택 잔여세대 추가입주자모집공고(순번추첨 동호지정)",
+  "type": "분양주택",
+  "region": "경기도",
+  "announce_date": "2026-11-13",
+  "closing_date": "2026-12-10",
+  "detail_url": "https://apply.lh.or.kr/lhapply/apply/wt/wrtanc/selectWrtancInfo.do?panId=0000061211&ccrCnntSysDsCd=02&uppAisTpCd=05&aisTpCd=05&mi=1027"
+ }
+]
