@@ -6,6 +6,7 @@
 .autorag-home/
 workspace/
 bisect/
+.jikji_agent_map.md
 
 # misc
 node_modules/
