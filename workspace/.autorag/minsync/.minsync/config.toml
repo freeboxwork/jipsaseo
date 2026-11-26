@@ -1,0 +1,49 @@
+version = 1
+source_id = "f08db7cc-6509-4ccd-abbd-4dc21a80c6bd"
+
+[collection]
+name = "minsync_f08db7cc"
+path = "store"
+
+[chunker]
+id = "line-cdc"
+
+[chunker.options]
+max_chunk_size = 4096
+delimiters = "\n.?!"
+heading_context = true
+
+[embedder]
+id = "native:Qwen/Qwen3-Embedding-0.6B"
+batch_size = 64
+max_concurrent = 1
+max_retries = 3
+timeout_seconds = 60
+truncate = false
+query_prefix = "Instruct: Given a web search query, retrieve relevant passages that answer the query\nQuery:"
+
+[vectorstore]
+id = "lancedb"
+
+[vectorstore.options]
+dimension = 1024
+
+[sparse]
+id = "native:nlpai-lab/KURE-Sparse-nano"
+batch_size = 64
+max_retries = 3
+timeout_seconds = 60
+query_prefix = "[Q] "
+passage_prefix = "[D] "
+
+[normalize]
+strip_trailing_whitespace = true
+normalize_newlines = true
+collapse_whitespace = false
+strip_frontmatter = false
+
+[sync]
+checkpoint_every_files = 50
+batch_files = 25
+on_file_error = "skip"
+max_file_bytes = 67108864

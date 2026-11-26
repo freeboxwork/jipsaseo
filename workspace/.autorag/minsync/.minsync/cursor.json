@@ -1,0 +1,13 @@
+{
+  "source_id": "f08db7cc-6509-4ccd-abbd-4dc21a80c6bd",
+  "last_synced_at": "2026-11-26T06:24:19.245808400+00:00",
+  "manifest_hash": "sha256:26a4476095ea0071743b8ae36909ed5fe804e937495ea4a403b783328c4a7429",
+  "chunk_schema_id": "line-cdc+heading",
+  "embedder_id": "Qwen/Qwen3-Embedding-0.6B",
+  "embedder": {
+    "model": "Qwen/Qwen3-Embedding-0.6B",
+    "dimension": 1024
+  },
+  "collection_path": "store",
+  "sparse_id": "nlpai-lab/KURE-Sparse-nano"
+}

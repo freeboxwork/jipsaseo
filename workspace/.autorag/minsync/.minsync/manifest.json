@@ -1,0 +1,127 @@
+{
+  "version": 1,
+  "source_id": "f08db7cc-6509-4ccd-abbd-4dc21a80c6bd",
+  "updated_at": "2026-11-26T05:27:37.327349300+00:00",
+  "files": {
+    "files/laws/housing-supply-rule.md.md": {
+      "size": 238700,
+      "mtime_ns": 1795670814254738500,
+      "content_hash": "sha256:43c53702b2c198f53eb40e39334425d75b9c00a26b47e13421867f742be65b3a",
+      "fingerprint": null
+    },
+    "files/notices/public-sale_0000061211.pdf.md": {
+      "size": 79821,
+      "mtime_ns": 1795670821308434100,
+      "content_hash": "sha256:7c82eb3c3bd04a63ca091e097baf88c5d8aaf0f315b7a64704dedd47102c73fc",
+      "fingerprint": null
+    },
+    "files/notices/purchase-rental_2015122300021136.pdf.md": {
+      "size": 114393,
+      "mtime_ns": 1795670822796210900,
+      "content_hash": "sha256:b961b78f887a1216e67e2f7868a7bd04d71f8504b9788c38926671eee6fae7ee",
+      "fingerprint": null
+    },
+    "files/notices/public-rental_2015122300021129.pdf.md": {
+      "size": 73638,
+      "mtime_ns": 1795670820641838700,
+      "content_hash": "sha256:275f18b21c50d099c828d45d0cb5a8e6a8fc6261f93da8a4bce2cb10325796cf",
+      "fingerprint": null
+    },
+    "files/notices/happy-house_2015122300021130.pdf.md": {
+      "size": 136668,
+      "mtime_ns": 1795670816725019700,
+      "content_hash": "sha256:24835915509daf8166a544f25e0f655e918022ed83650f5f849c2ff32f22257e",
+      "fingerprint": null
+    },
+    "files/laws/public-housing-act-enforcement-rule.md.md": {
+      "size": 376864,
+      "mtime_ns": 1795670814389921800,
+      "content_hash": "sha256:038b142e393acb24bc5fba03b944636ae98c4f97f59cf8be980119181229fa0c",
+      "fingerprint": null
+    },
+    "files/laws/public-rental-waitlist-guideline.md.md": {
+      "size": 15596,
+      "mtime_ns": 1795670814637769200,
+      "content_hash": "sha256:6008767e0030756b6e876b8e90fc6e12ed8ef70cac98fbefd4a84c139b963d96",
+      "fingerprint": null
+    },
+    "files/notices/national-rental_2015122300021124.pdf.md": {
+      "size": 125145,
+      "mtime_ns": 1795670818729671400,
+      "content_hash": "sha256:bec6e780e2013bc214b82acc4ce16870a30a9cabe9d7e3dd5b764247a2efb9c2",
+      "fingerprint": null
+    },
+    "files/notices/public-rental_0000061212.pdf.md": {
+      "size": 54283,
+      "mtime_ns": 1795670820046040500,
+      "content_hash": "sha256:9d2982704971529b01769cbae0a78037fb606dad84f6a8f36b0ad1ad4161d5ce",
+      "fingerprint": null
+    },
+    "files/notices/permanent-rental_2015122300021055.pdf.md": {
+      "size": 125163,
+      "mtime_ns": 1795670819239932200,
+      "content_hash": "sha256:345ac4a5c2897e0a5dc8753d3a8c99b3819afe945902bbd7c6f8c5ae0924d6d1",
+      "fingerprint": null
+    },
+    "files/notices/national-rental_2015122300021117.pdf.md": {
+      "size": 53474,
+      "mtime_ns": 1795670818265166100,
+      "content_hash": "sha256:f25cefa6b12ee77ace31f541127a23ecb9a8c6e68d899f7560521301fb32e0b8",
+      "fingerprint": null
+    },
+    "files/notices/happy-house_2015122300021128.pdf.md": {
+      "size": 115371,
+      "mtime_ns": 1795670816191921900,
+      "content_hash": "sha256:e4c36b4d27a87458ff8bc3546a9f1425269b5c6b063b7000d06493ea72e6924a",
+      "fingerprint": null
+    },
+    "files/notices/purchase-rental_2015122300021126.pdf.md": {
+      "size": 93420,
+      "mtime_ns": 1795670821790334600,
+      "content_hash": "sha256:2c75b41cb915ae7526f001a4c664ba3992f316d53fdf1fd1b14b2985810265e0",
+      "fingerprint": null
+    },
+    "files/notices/happy-house_2015122300021121.pdf.md": {
+      "size": 120849,
+      "mtime_ns": 1795670815672709900,
+      "content_hash": "sha256:10a7e70fd2fa2c7e47582270812dbeac8a91220047d0f9e3fa7aeec05bb7c6a7",
+      "fingerprint": null
+    },
+    "files/notices/public-sale_0000061207.pdf.md": {
+      "size": 55595,
+      "mtime_ns": 1795670820916251500,
+      "content_hash": "sha256:a047d7b8b8b2f30e562eb243acf7d95f17d1173ef7a6a26bc49d15ab8817bc06",
+      "fingerprint": null
+    },
+    "files/notices/purchase-rental_2015122300021127.pdf.md": {
+      "size": 86060,
+      "mtime_ns": 1795670822230593300,
+      "content_hash": "sha256:c0979d89961afd4ffd512934654aa0b1c6b565ebb48c392868fde1d5471baa5e",
+      "fingerprint": null
+    },
+    "files/laws/public-housing-guideline.md.md": {
+      "size": 390101,
+      "mtime_ns": 1795670814545459900,
+      "content_hash": "sha256:aef83a233dd58cc7ffe31791c36d44c429c5b4c9b8886430d8c26b33902ecb56",
+      "fingerprint": null
+    },
+    "files/notices/integrated-public-rental_2015122300021132.pdf.md": {
+      "size": 165770,
+      "mtime_ns": 1795670817586380800,
+      "content_hash": "sha256:f8a4fd97c79383687c2c8bd5faf314d5952fcbeba0a7fe0cc16c1ee8056f7873",
+      "fingerprint": null
+    },
+    "files/notices/permanent-rental_2015122300021133.pdf.md": {
+      "size": 91962,
+      "mtime_ns": 1795670819758566400,
+      "content_hash": "sha256:9b43dc04e315491c4f33cfa7db14f3a7180b3cce50f3ce657ffc465e63128995",
+      "fingerprint": null
+    },
+    "files/notices/national-rental_2015122300021103.pdf.md": {
+      "size": 106867,
+      "mtime_ns": 1795670818004446000,
+      "content_hash": "sha256:22aa244033fe591cbb69bf50cf5a0d76483ca74851ed2a16d377a3f03fdb6185",
+      "fingerprint": null
+    }
+  }
+}
