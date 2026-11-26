@@ -1,0 +1,14 @@
+# secrets
+.env
+.env.*
+
+# local AutoRAG state (rebuilt per machine)
+.autorag-home/
+workspace/
+bisect/
+
+# misc
+node_modules/
+*.log
+.DS_Store
+Thumbs.db

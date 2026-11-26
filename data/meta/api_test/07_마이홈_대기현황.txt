@@ -1,0 +1,8 @@
+{
+  "response": {
+    "header": {
+      "resultCode": "11",
+      "resultMsg": "NO_MANDATORY_REQUEST_PARAMETER_ERROR"
+    }
+  }
+}
